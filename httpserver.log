@@ -1,0 +1,5 @@
+127.0.0.1, 2016-01-12 16:23:29, GET, /, HTTP/1.1, 303, 0.007369
+127.0.0.1, 2016-01-12 16:23:30, GET, /welcome/default/index, HTTP/1.1, 200, 0.343412
+127.0.0.1, 2016-01-12 16:23:30, GET, /welcome/static/css/bootstrap-theme.min.css, HTTP/1.1, 200, 0.000753
+127.0.0.1, 2016-01-12 16:23:30, GET, /welcome/static/js/share.js, HTTP/1.1, 200, 0.001745
+127.0.0.1, 2016-01-12 16:23:40, GET, /ElectionsStats/default/index, HTTP/1.1, 200, 0.178985
