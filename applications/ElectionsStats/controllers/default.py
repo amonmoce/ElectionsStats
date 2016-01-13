@@ -43,6 +43,7 @@ def encode_data(numbers):
 
 
 def scrapeData(countryValue, whichData):
+    countryValue = '226'
     url = 'http://www.idea.int/vt/countryview.cfm?id='+countryValue
     page = requests.get(url)
     tree = html.fromstring(page.content)
