@@ -1,1 +1,1 @@
-http://amonmoce.pythonanywhere.com/ElectionsStats/default/index
+http://blooming-hollows-1907.herokuapp.com/ElectionsStats/default/index
